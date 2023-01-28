@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "3f75ea2823a96a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1f9cf14a85c11d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "771a984a8c2e9f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zybooks Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f2c938248c28894",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e8b0aa7c8824f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae892716849d186d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac356bb7fe47d467",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8ddb32f2d46d7a1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4a5a1e1e4fb05b48",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae93ba1b52a1b60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a305a27038d30175",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zybooks Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad965f8db185f93c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zybooks Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cf203724f840d7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b42f5c3d68949530",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zybooks Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "771a984a8c2e9f6d",
+  "lastOpenFiles": [
+    "Pasted image 20230123162355.png",
+    "Zybooks Notes.md",
+    "Pasted image 20230123165552.png",
+    "Pasted image 20230123162334.png",
+    "Untitled 1.md"
+  ]
+}
